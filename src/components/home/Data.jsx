@@ -4,7 +4,7 @@ export const Data = () => {
   return (
     <div className="home__data">
       <h1 className="home__title">
-        Mohamed
+        Mohameddddd
         <br /> Ait Fares
         <svg
           width="36"
