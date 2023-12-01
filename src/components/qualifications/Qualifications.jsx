@@ -8,7 +8,7 @@ const Qualifications = () => {
     setToggleState(index);
   };
   return (
-    <section className="qualifications section">
+    <section className="qualifications section" id="qualifications">
       <h2 className="section__title">Qualifications</h2>
       <span className="section__subtitle">My personal journey</span>
 
@@ -49,9 +49,9 @@ const Qualifications = () => {
           >
             <div className="qualifications__data">
               <div>
-                <h3 className="qualifications__title">Web Designe11</h3>
+                <h3 className="qualifications__title">INSEA, Rabat</h3>
                 <span className="qualifications__subtitle">
-                  Spain - Institute
+                  Data and Software engineering degree
                 </span>
                 <div className="qualifications__calender">
                   <i className="uil uil-calendar-alt"></i> 2021 - Present
@@ -71,47 +71,30 @@ const Qualifications = () => {
                 <span className="qualifications__line"></span>
               </div>
               <div>
-                <h3 className="qualifications__title">Web Designe111</h3>
+                <h3 className="qualifications__title">CPGE - Ibn Timiya</h3>
                 <span className="qualifications__subtitle">
-                  Spain - Institute
+                  Preparatory classes for engineering, MP option
                 </span>
                 <div className="qualifications__calender">
-                  <i className="uil uil-calendar-alt"></i> 2021 - Present
+                  <i className="uil uil-calendar-alt"></i> 2019 - 2021
                 </div>
               </div>
             </div>
 
             <div className="qualifications__data">
               <div>
-                <h3 className="qualifications__title">Web Designe1111</h3>
+                <h3 className="qualifications__title">Institut Lamrani</h3>
                 <span className="qualifications__subtitle">
-                  Spain - Institute
+                  Baccalaureat’s degree MS, French option
                 </span>
                 <div className="qualifications__calender">
-                  <i className="uil uil-calendar-alt"></i> 2021 - Present
+                  <i className="uil uil-calendar-alt"></i> Completed in 2019
                 </div>
               </div>
 
               <div>
                 <span className="qualifications__rounder"></span>
                 <span className="qualifications__line"></span>
-              </div>
-            </div>
-
-            <div className="qualifications__data">
-              <div></div>
-              <div>
-                <span className="qualifications__rounder"></span>
-                <span className="qualifications__line"></span>
-              </div>
-              <div>
-                <h3 className="qualifications__title">Web Designe1111</h3>
-                <span className="qualifications__subtitle">
-                  Spain - Institute
-                </span>
-                <div className="qualifications__calender">
-                  <i className="uil uil-calendar-alt"></i> 2021 - Present
-                </div>
               </div>
             </div>
           </div>
@@ -125,12 +108,13 @@ const Qualifications = () => {
           >
             <div className="qualifications__data">
               <div>
-                <h3 className="qualifications__title">Web Designe11</h3>
+                <h3 className="qualifications__title">Heidelberg Materials</h3>
                 <span className="qualifications__subtitle">
-                  Spain - Institute
+                  Casablanca - Intership
                 </span>
                 <div className="qualifications__calender">
-                  <i className="uil uil-calendar-alt"></i> 2021 - Present
+                  <i className="uil uil-calendar-alt"></i> June 2023 - August
+                  2023
                 </div>
               </div>
 
@@ -147,30 +131,14 @@ const Qualifications = () => {
                 <span className="qualifications__line"></span>
               </div>
               <div>
-                <h3 className="qualifications__title">Web Designe111</h3>
+                <h3 className="qualifications__title">HTC</h3>
                 <span className="qualifications__subtitle">
-                  Spain - Institute
+                  Marrakech - Internship
                 </span>
                 <div className="qualifications__calender">
-                  <i className="uil uil-calendar-alt"></i> 2021 - Present
+                  <i className="uil uil-calendar-alt"></i> July 2022 - August
+                  2022
                 </div>
-              </div>
-            </div>
-
-            <div className="qualifications__data">
-              <div>
-                <h3 className="qualifications__title">Web Designe1111</h3>
-                <span className="qualifications__subtitle">
-                  Spain - Institute
-                </span>
-                <div className="qualifications__calender">
-                  <i className="uil uil-calendar-alt"></i> 2021 - Present
-                </div>
-              </div>
-
-              <div>
-                <span className="qualifications__rounder"></span>
-                <span className="qualifications__line"></span>
               </div>
             </div>
           </div>

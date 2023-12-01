@@ -13,7 +13,7 @@ export const Social = () => {
       </a>
 
       <a
-        href="https://fr.linkedin.com"
+        href="https://linkedin.com/in/mohamed-ait-fares-87b15a241"
         className="home__social-icon"
         target="_blank"
         rel="noreferrer"
@@ -22,7 +22,7 @@ export const Social = () => {
       </a>
 
       <a
-        href="https://github.com"
+        href="https://github.com/mohamedaitfares"
         className="home__social-icon"
         target="_blank"
         rel="noreferrer"

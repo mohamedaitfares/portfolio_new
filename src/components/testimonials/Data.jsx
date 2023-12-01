@@ -1,34 +1,25 @@
-import Image1 from "../../assets/John/assets/testimonial1.png";
-import Image2 from "../../assets/John/assets/testimonial2.png";
-import Image3 from "../../assets/John/assets/testimonial3.png";
+import Image1 from "../../assets/John/assets/aaa.jpg";
 
 export const Data = [
   {
     id: 1,
     image: Image1,
-    title: " Jhon Doe",
+    title: "Mr. FERRARI Patrick - HTC",
     description:
-      "React Portfolio Website Tutorial - Portfolio Website Using React",
+      "He is demonstrating exceptional skill and adaptability in tackling challenging tasks, showing great promise as a software developer.",
   },
   {
     id: 2,
-    image: Image2,
-    title: " Jhon Doe",
+    image: Image1,
+    title: "CHELLAK El mehdi - CIMAR",
     description:
-      "React Portfolio Website Tutorial - Portfolio Website Using React",
+      "He is showcasing a notable commitment and a clear ability to adapt, which is highly commendable. His diligence and adaptability are truly making a positive impact on our projects.",
   },
   {
     id: 3,
-    image: Image3,
-    title: " Jhon Doe",
-    description:
-      "React Portfolio Website Tutorial - Portfolio Website Using React",
-  },
-  {
-    id: 4,
     image: Image1,
-    title: " Jhon Doe",
+    title: "Pr. KABBAJ Adil - INSEA",
     description:
-      "React Portfolio Website Tutorial - Portfolio Website Using React",
+      "Fostering a sense of seriousness, diligence, and evident competence, I wholeheartedly recommend his applications. His commitment and capabilities make him a strong candidate.",
   },
 ];

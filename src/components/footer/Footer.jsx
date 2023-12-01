@@ -5,7 +5,7 @@ const Footer = () => {
   return (
     <footer className="footer">
       <div className="footer__container container">
-        <h1 className="footer__title">Smith</h1>
+        <h1 className="footer__title">Ait Fares</h1>
 
         <ul className="footer__list">
           <li>
@@ -15,13 +15,13 @@ const Footer = () => {
           </li>
 
           <li>
-            <a href="#portfolio" className="footer__link">
+            <a href="#skills" className="footer__link">
               Projects
             </a>
           </li>
 
           <li>
-            <a href="#testimonials" className="footer__link">
+            <a href="#services" className="footer__link">
               Testimonials
             </a>
           </li>
@@ -38,7 +38,7 @@ const Footer = () => {
           </a>
 
           <a
-            href="https://fr.linkedin.com"
+            href="https://linkedin.com/in/mohamed-ait-fares-87b15a241"
             className="footer__social-link"
             target="_blank"
             rel="noreferrer"
@@ -47,7 +47,7 @@ const Footer = () => {
           </a>
 
           <a
-            href="https://github.com"
+            href="https://github.com/mohamedaitfares"
             className="footer__social-link"
             target="_blank"
             rel="noreferrer"
@@ -56,9 +56,7 @@ const Footer = () => {
           </a>
         </div>
 
-        <span className="footer__copy">
-          &#169; Crypticalcoder. All rights reserved
-        </span>
+        <span className="footer__copy">&#169; Made By Mohamed</span>
       </div>
     </footer>
   );
